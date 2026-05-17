@@ -1,8 +1,8 @@
-cout << " ";
+cout << ch;
             }
 
-            // characters
-            for (char ch = 'A'; ch <= 'A' + i - 1; ch++) {
+            // decreasing letters
+            for (char ch = 'A' + i - 2; ch >= 'A'; ch--) {
                 cout << ch;
             }
 
