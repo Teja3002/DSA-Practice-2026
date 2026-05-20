@@ -6,8 +6,8 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 18 |
-| Easy | 17 |
+| Total Solved | 19 |
+| Easy | 18 |
 | Medium | 1 |
 | Hard | 0 |
 
@@ -15,17 +15,17 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Topic | Problems Solved |
 |-------|-----------------|
-| Fundamentals Of Programming | 18 |
+| Fundamentals Of Programming | 19 |
 
 ## Recently Solved
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Return the Largest Digit in a Number | Easy | Fundamentals Of Programming | 2026-05-20 |
 | Palindrome Number | Easy | Fundamentals Of Programming | 2026-05-20 |
 | Reverse a number | Easy | Fundamentals Of Programming | 2026-05-20 |
 | Count number of odd digits in a number | Easy | Fundamentals Of Programming | 2026-05-20 |
 | LCM of two numbers | Easy | Fundamentals Of Programming | 2026-05-20 |
-| GCD of Two Numbers | Easy | Fundamentals Of Programming | 2026-05-20 |
 
 ---
 
