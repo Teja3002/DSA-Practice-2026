@@ -1,9 +1,7 @@
 # Inner loop will run for columns.
             for j in range(i+1):
                 print("*", end="")
-                
-            """ As soon as n stars are printed, move
-            to the next row and give a line break."""
+          
             print()
 
 
