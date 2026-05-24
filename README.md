@@ -6,8 +6,8 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 29 |
-| Easy | 28 |
+| Total Solved | 30 |
+| Easy | 29 |
 | Medium | 1 |
 | Hard | 0 |
 
@@ -22,16 +22,17 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 | Reverse An Array | 1 |
 | Selection Sort | 1 |
 | Linear Search | 1 |
+| Sorting | 1 |
 
 ## Recently Solved
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Largest Element | Easy | Sorting | 2026-05-24 |
 | Linear Search | Easy | Linear Search | 2026-05-24 |
 | Selection Sort | Easy | Selection Sort | 2026-05-23 |
 | Reverse an array | Easy | Reverse An Array | 2026-05-21 |
 | Check if the Array is Sorted I | Easy | Check If The Array Is Sorted I | 2026-05-21 |
-| Pattern 2 | Easy | Fundamentals Of Programming | 2026-05-21 |
 
 ---
 
